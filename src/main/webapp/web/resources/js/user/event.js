@@ -6,7 +6,4 @@ $('#loginBtn').click(function(){
     USERFUNC.login();
     //console.log('반환되는지확인')
     console.log(1)
-    console.log(33)
-    console.log(100)
-    console.log(11100)
 })
